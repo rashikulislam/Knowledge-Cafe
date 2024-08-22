@@ -1,0 +1,48 @@
+[
+    {
+      "cover_img": "https://i.ibb.co/zb8PNQm/2.png",
+      "title": "Exploring the Cosmos: The New Space Race",
+      "author": {
+        "name": "John Smith",
+        "author_img": "https://i.ibb.co/KDLsz5h/boy2.jpg"
+      },
+      "reading_time": 10,
+      "hashtags": [
+        "Space",
+        "Astronomy",
+        "Science"
+      ],
+      "posted_date": "2024-08-20"
+    },
+    {
+      "cover_img": "https://i.ibb.co/zb8PNQm/2.png",
+      "title": "The Future of Renewable Energy: Solar Power",
+      "author": {
+        "name": "Emily Johnson",
+        "author_img": "https://i.ibb.co/KDLsz5h/boy2.jpg"
+      },
+      "reading_time": 7,
+      "hashtags": [
+        "RenewableEnergy",
+        "Solar",
+        "Environment"
+      ],
+      "posted_date": "2024-08-21"
+    },
+    {
+      "cover_img": "https://i.ibb.co/zb8PNQm/2.png",
+      "title": "The Rise of AI in Healthcare: Opportunities and Challenges",
+      "author": {
+        "name": "Michael Lee",
+        "author_img": "https://i.ibb.co/KDLsz5h/boy2.jpg"
+      },
+      "reading_time": 12,
+      "hashtags": [
+        "AI",
+        "Healthcare",
+        "Innovation"
+      ],
+      "posted_date": "2024-08-22"
+    }
+  ]
+  
